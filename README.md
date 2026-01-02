@@ -293,6 +293,10 @@ A fully functional, production-ready text summarization tool demonstrating multi
 
 **Enjoy summarizing! 🚀**
 
+## 🖼️ OUTPUT
+
+<img width="1250" height="927" alt="Image" src="https://github.com/user-attachments/assets/999afb04-b7cc-45a9-b117-b374f4c94df0" />
+<img width="1247" height="825" alt="Image" src="https://github.com/user-attachments/assets/c69fa63e-5825-4cbb-a307-f007236bda88" />
 ---
 
 *Created: December 25, 2025*  
