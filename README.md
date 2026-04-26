@@ -1,21 +1,5 @@
 # TEXT-SUMMARIZATION-TOOL
 
-*COMPANY NAME*: CODTECH IT SOLUTIONS
-
-*NAME*: SREEHARI R
-
-*INTERN ID*: CTIS0675
-
-*DOMIAN*: ARTIFICIAL INTELLIGENCE
-
-*DURATION*: 4 WEEKS
-
-*MENTOR*: NEELA SANTHOSH
-
-# 🎯 PROJECT SUMMARY: Text Summarization Tool
-
-## ✅ Deliverable Complete
-
 A comprehensive **Python-based Text Summarization Tool** using Natural Language Processing (NLP) techniques for extractive summarization of lengthy articles.
 
 ---
